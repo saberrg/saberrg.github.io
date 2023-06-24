@@ -1,6 +1,6 @@
-Personal Website Starter
+A Personal Website 
 ========================
 
-Fork this repo as a public repo under your account, and name it `<your_github_username>.github.io`.
+A personal website that was created in a workshop, a great base to experiment with hosting and general web and website services. More details later... 
 
 Based off / uses the [Dimension theme from HTML5 UP](https://html5up.net/dimension).
